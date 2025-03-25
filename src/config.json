@@ -1,0 +1,104 @@
+{
+    "ascii": [
+  
+      " █████╗ ██████╗  █████╗ ██╗   ██╗     ██████╗ ██╗   ██╗██████╗ ████████╗ █████╗", 
+      "██╔══██╗██╔══██╗██╔══██╗██║   ██║    ██╔════╝ ██║   ██║██╔══██╗╚══██╔══╝██╔══██╗",
+      "███████║██████╔╝███████║██║   ██║    ██║  ███╗██║   ██║██████╔╝   ██║   ███████║",
+      "██╔══██║██╔══██╗██╔══██║╚██╗ ██╔╝    ██║   ██║██║   ██║██╔═══╝    ██║   ██╔══██║",
+      "██║  ██║██║  ██║██║  ██║ ╚████╔╝     ╚██████╔╝╚██████╔╝██║        ██║   ██║  ██║",
+      "╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝       ╚═════╝  ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝"
+    ],
+    "title": "Portfolio - Arav",
+    "username": "guest",
+    "hostname": "aravgupta.dev",
+    "resumeLink": "https://drive.google.com/file/d/18w-k8c3AhDPJgxnIvarUp_RNGTfaekM8/view?usp=sharing",
+    "education": [
+      "2022-2026: B.Tech in Computer Science Engineering, Punjab Engineering College, Chandigarh (CGPA: 9.02)",
+      "2021-2022: Class 12th, City Montessori School, Lucknow (Percentage: 97.25%)",
+      "2019-2020: Class 10th, City Montessori School, Lucknow (Percentage: 92.2%)"
+    ],
+    "workExperience": [
+    {
+      "title": "Software Engineer Intern",
+      "company": "Maruti Suzuki India Limited",
+      "duration": "Feb. 2025 – Present",
+      "location": "Gurgaon, Haryana",
+      "responsibilities": [
+        "Collaborated with 5+ digital vendor partners to streamline infrastructure provisioning",
+        "Engineered modular Terraform script components for 5+ AWS services, ensuring code re-usability.",
+        "Analyzed Jenkins CI/CD pipelines, documenting workflows for improved maintainability and future scalability.",
+        "Evaluated and documented the integration of 4+ security tools within the CI/CD pipeline to enhance security practices.<br><br>"
+      ]
+    },
+
+
+    {
+      "title": "Software Engineering Trainee",
+      "company": "Atomic North Pvt. Ltd.",
+      "duration": "June 2024 – August 2024",
+      "responsibilities": [
+        "Trained in Agile methodologies, requirements gathering and analysis, database design, and querying relational databases."
+      ]
+    }
+  ],
+    "password": "AravOwnsThis",
+    "repoLink": "https://github.com/AravCodes/Portfolio",
+    "social": {
+      "email": "ag.aravgupta@gmail.com",
+      "github": "AravCodes",
+      "linkedin": "arav-gupta-porwal"
+    },
+    
+    "aboutGreeting": "Hello there, I'm Arav Gupta. I'm a student at Punjab Engineering College, pursuing a degree in Computer Science Engineering. <br><br>A fellow Software Dev. Exploring Agentic AI and ML. <br><br> When I'm not buried in code or tinkering with the latest tech, you can find me exploring new ways to merge innovation with everyday life.<BR><BR>I thrive on challenges and love pushing the boundaries of what's possible. <br><br>My journey in the tech world has been anything but conventional – from developing AI agents to making Verification Platforms.<br><br> Every project I tackle is a new adventure, a chance to learn something new and make a real impact. <br><br> If you have a fun project to work upon or just want to say hi, feel free to reach out to me. I'm always up for a good chat!",
+    "projects": [
+      [
+        "SOCRATIC",
+        "Transcription, Summrisation & RAG-based QnA System for Lectures.",
+        "https://github.com/AravCodes/Socratic"
+      ],
+      [
+        "SENTINET",
+        "Hybrid Layered Network Intrusion Detection System — Research Project",
+        "https://github.com/AravCodes/SENTINET"
+      ],
+      [
+        "KYC",
+        "Facial Recognition System, Liveness Check & Document Verification",
+        "https://github.com/AravCodes/byte-me"
+      ],
+      [
+        "ALPHASTOCKS",
+        "Stock Prediction, Portfolio Optimisation, Sentiment Analysis",
+        "https://github.com/coderiders22/ALPHASTOCKS"
+      ],
+      [
+        "MENTALCARE",
+        "Audio Acoustic Feature Extraction & Parkinson's Disease Detection",
+        "https://github.com/AravCodes/MentalCare"
+      ]
+    ],
+    "colors": {
+      "background": "#0C0623",
+      "foreground": "#F8DDE5",
+      "banner": "#FF9951",
+      "border": {
+        "visible": true,
+        "color": "#FFADE2"
+      },
+      "prompt": {
+        "default": "#A5A7A7",
+        "user": "#FE6BC9",
+        "host": "#70FDFF",
+        "input": "#FF7685"
+      },
+      "link": {
+        "text": "#B6AAEE",
+        "highlightColor": "#FFADE2",
+        "highlightText": "#0C0623"
+      },
+      "commands": {
+        "textColor": "#FD9BDB"
+      }
+    }
+  }
+  
