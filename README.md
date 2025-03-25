@@ -1,5 +1,6 @@
 # PORTFOLIO
 A simple CLI Portfolio built with TypeScript and Vite
+![image](https://github.com/user-attachments/assets/b0710492-c3a4-48ed-9b15-552ca5cf1011)
 
 ## Table of Contents
 
