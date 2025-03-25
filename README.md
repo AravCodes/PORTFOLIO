@@ -66,7 +66,7 @@ npm run predeploy
 npm run deploy
 ```
 
-The project will be deployed to `https://AravCodes.github.io/PORTFOLIO`.
+The project will be deployed to Github Pages.
 
 ## License
 
